@@ -7,4 +7,5 @@ int main(){
     printf("Masukkan angka kedua: ");
     scanf("%f", &b);
     printf("%.1f + %.1f = %.1f", a, b, a + b);
+    return 0;
 }
